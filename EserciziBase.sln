@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieNumerica", "NumberSeri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromo", "Palindromo\Palindromo.csproj", "{5E879023-3E39-4961-A1FD-69A6E48DCF70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vettore", "Vettore\Vettore.csproj", "{70FBA524-F598-4071-A5A8-DAC080BE3E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5E879023-3E39-4961-A1FD-69A6E48DCF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E879023-3E39-4961-A1FD-69A6E48DCF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E879023-3E39-4961-A1FD-69A6E48DCF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FBA524-F598-4071-A5A8-DAC080BE3E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FBA524-F598-4071-A5A8-DAC080BE3E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FBA524-F598-4071-A5A8-DAC080BE3E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FBA524-F598-4071-A5A8-DAC080BE3E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vettore", "Vettore\Vettore.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appuntamento", "Appuntamento\Appuntamento.csproj", "{F095F8D6-68EF-4F29-A880-40713C9D94AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crucipuzzle", "Crucipuzzle\Crucipuzzle.csproj", "{8220B5F3-6C37-4BFB-92EB-B0126BC34CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F095F8D6-68EF-4F29-A880-40713C9D94AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F095F8D6-68EF-4F29-A880-40713C9D94AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F095F8D6-68EF-4F29-A880-40713C9D94AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8220B5F3-6C37-4BFB-92EB-B0126BC34CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8220B5F3-6C37-4BFB-92EB-B0126BC34CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8220B5F3-6C37-4BFB-92EB-B0126BC34CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8220B5F3-6C37-4BFB-92EB-B0126BC34CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
